@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: urbania-web-api
+  host: urbania-web-api
+  disk_quota: 1024M
